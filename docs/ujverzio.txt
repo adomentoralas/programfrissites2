@@ -1,9 +1,0 @@
-5.0.1 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- Az adatok megváltozása után a listák automatikusan frissünlnek a szűrőfeltételeknek megfelelően
-- Több gazdasági esemény szótártalálat esetén az automatikusan felugró választóablak tömeges megjelenítése megszakítható
-- Nav online számla listában megjelenik az RLB könyvelési sorszám, ha a számla szerepel már a könyvelésben
-- A generált számlakép jobb felső sarkában kijelzésre kerül a könyvelve státusz és a hozzá tartozó RLB könyvelési sorszám
