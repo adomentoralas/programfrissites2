@@ -1,9 +1,0 @@
-5.0.3 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- TransferWise .csv számlatörténet beolvasása
-- K&H bank .cs számlatörténet beolvasás javítása
-- A hozzáadott bizonylat fájloknál lehetőség van egyedi bizonylatnevet (pl. eredeti bankkivonat szám) hozzáadni,
-  ami majd a konvertálásnál megjelenik az egyedi bizonylatszámban
