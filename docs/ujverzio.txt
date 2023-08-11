@@ -1,8 +1,0 @@
-5.0.4 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- GLS csomagpont lista .xlsx új verzió beolvasása
-- MPL csomagpont lista .csv beolvasása
-- Kimutatások menüpont kiegészült a főkönyvi kivonat megjelenítésével
