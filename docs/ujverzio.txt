@@ -1,8 +1,0 @@
-5.0.5 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- RLB Kettősben könyvelve státusz manuális frissítése gomb a fejlécben
-- MKB Bank számlatörténet .csv beolvasása
-- Kimutatások menüpont => főkönyvi kivonat kétféle nézetben is exportálható (minden adat könyvelő részére vagy csak egyenleg adatok ügyfelek részére)
