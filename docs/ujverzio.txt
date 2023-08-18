@@ -1,6 +1,0 @@
-5.0.6 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- A gazdasági esemény szótárütközések kijelzésre kerülnek a felhasználó számára
