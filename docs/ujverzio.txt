@@ -1,8 +1,0 @@
-5.0.8 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- Vevő és szállító bizonylatoknál kézzel át lehet állítani a teljesítés dátumát a számlán szereplő dátumtól eltérően (így lehetséges az ÁFA bevallás esedékességén módosítani)
-- Magánszemély vevőhöz (NAV Online számla) a bizonylat nézetben is lehet könyvelési partnert vagy egyedi vevő partnert hozzárendelni
-- A gazdasági események listájában kijelzésre kerül az adott eseményhez tartozó szórtárak száma. Figyelmeztető ikon jelenik meg abban az esetben, ha egyetlen szótárbejegyzés  sem tartozik a gazdasági eseményhez.
