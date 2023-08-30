@@ -1,7 +1,0 @@
-5.0.9 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- ADÓMENTORÁLÁS utalási csomag lista .xlsx beolvasása
-- Hungaropharma csomag lista .xlsx beolvasása
