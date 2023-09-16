@@ -1,8 +1,0 @@
-5.1.3 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- Gazdasági események listát cégekre lehet szűrni
-- A bank összepontozás listában könyvelésre jelölés
-- A vevő-szállító összepontozás lista szűrőjének kiegészítése a fizetési móddal
