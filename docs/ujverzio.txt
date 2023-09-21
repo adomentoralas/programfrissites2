@@ -1,8 +1,0 @@
-5.1.4 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- A Program beállítások menüpontban választható, hogy a számla megjegyzés az első gazdasági esemény vagy az első számlatétel legyen-e
-- A számla fizetési határideje kézzel egyedileg megváltoztatható
-- A számla fizetési módja kézzel egyedileg megváltoztatható
