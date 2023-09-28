@@ -1,7 +1,0 @@
-5.1.6 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- ÁNYK bevallások státuszának listája
-- MagNet Bank új verzió beolvasása
