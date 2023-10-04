@@ -1,7 +1,0 @@
-5.1.9 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- Egyszerre csak egy ADÓMENTORÁLÁS Bizonylat Konvertáló példány futtatható
-- ÁNYK bevallások lehetséges státuszai: Elküldött, Küldésre megjelölt, Módosítható
