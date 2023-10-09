@@ -1,6 +1,0 @@
-5.2.0 verzió
-
-Újdonságok, javítások:
-
-- Működési hibák javítása
-- CIB Bank .csv bankszámlatörténet beolvasása
