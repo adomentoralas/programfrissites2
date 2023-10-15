@@ -1,0 +1,5 @@
+5.2.5 verzió
+
+Újdonságok, javítások:
+
+- Működési hibák javítása
