@@ -1,4 +1,4 @@
-5.2.9 verzió
+5.3.0 verzió
 
 Újdonságok, javítások:
 
