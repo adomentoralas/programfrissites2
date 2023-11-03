@@ -1,0 +1,8 @@
+5.3.1 verzió
+
+Újdonságok, javítások:
+
+- Működési hibák javítása
+- ERSTE Bank új számlatörténet beolvasása
+- A NAV OSA adatokhoz tömegesen és automatikus azonosítással hozzárendelhetők az eredeti számlakép fájlok (.pdf, .jpg stb.)
+
