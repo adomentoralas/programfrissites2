@@ -1,7 +1,6 @@
-5.3.2 verzió
+5.3.3 verzió
 
 Újdonságok, javítások:
 
 - Működési hibák javítása
-- A NAV OSA adatokhoz tömegesen és automatikus azonosítással hozzárendelhetők az eredeti számlakép fájlok (.pdf, .jpg stb.)
 
