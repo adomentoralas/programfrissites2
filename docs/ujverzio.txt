@@ -1,6 +1,7 @@
-5.3.4 verzió
+5.3.5 verzió
 
 Újdonságok, javítások:
 
+- Bizonylatok iktatása, NAV Osa adatokhoz eredeti számlakép hozzárendelése
 - Működési hibák javítása
 
