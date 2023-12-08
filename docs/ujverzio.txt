@@ -1,6 +1,6 @@
-5.3.9 verzió
+5.4.0 verzió
 
 Újdonságok, javítások:
 
-- MBH Bank (volt MKB Bank) .csv bankszámlatörténet beolvasása
+- Működési hibák javítása
 
