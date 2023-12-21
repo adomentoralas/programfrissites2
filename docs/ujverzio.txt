@@ -1,6 +1,7 @@
-5.4.0 verzió
+5.4.1 verzió
 
 Újdonságok, javítások:
 
+- NavOsa számlaadatok és Iktatott számlák Excel exportja
 - Működési hibák javítása
 
