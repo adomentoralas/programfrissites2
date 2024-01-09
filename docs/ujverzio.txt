@@ -1,6 +1,0 @@
-5.4.3 verzió
-
-Újdonságok, javítások:
-
-- ERSTE Bank .csv és .xls új verziók beolvasása
-
