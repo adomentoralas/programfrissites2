@@ -1,7 +1,6 @@
-5.4.4 verzió
+5.4.5 verzió
 
 Újdonságok, javítások:
 
-- CIB Bank .xls új verzió beolvasása
 - Működési hibák javítása
 
