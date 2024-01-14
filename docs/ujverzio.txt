@@ -1,6 +1,6 @@
-5.4.6 verzió
+5.4.7 verzió
 
 Újdonságok, javítások:
 
-- Működési hibák javítása
+- Kimutatások kiegészültek az éves eredmények havi bontású táblázatával
 
