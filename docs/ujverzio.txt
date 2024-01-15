@@ -1,6 +1,6 @@
-5.4.7 verzió
+5.4.8 verzió
 
 Újdonságok, javítások:
 
-- Kimutatások kiegészültek az éves eredmények havi bontású táblázatával
+- CIBBank .xls v2 beolvasási hiba javítása
 
