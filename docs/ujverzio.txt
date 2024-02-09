@@ -1,6 +1,6 @@
-5.4.9 verzió
+5.5.0 verzió
 
 Újdonságok, javítások:
 
-- Működési hibák javítása
+- Gránit Bank .xml beolvasási hiba javítása
 
