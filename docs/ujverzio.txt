@@ -1,6 +1,10 @@
-5.5.0 verzió
+5.5.1 verzió
 
 Újdonságok, javítások:
 
-- Gránit Bank .xml beolvasási hiba javítása
+- Országos Fizetési Szolgáltató .csv beolvasása
+- MagNet Bank .xml beolvasása
+- Wise Europe SA .xml beolvasása
+- Vseobecna uverova banka a.s. .xml beolvasása
+- Működési hibák javítása
 
