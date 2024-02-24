@@ -1,10 +1,8 @@
-5.5.1 verzió
+5.5.2 verzió
 
 Újdonságok, javítások:
 
-- Országos Fizetési Szolgáltató .csv beolvasása
-- MagNet Bank .xml beolvasása
-- Wise Europe SA .xml beolvasása
-- Vseobecna uverova banka a.s. .xml beolvasása
+- DPD csomaglista .xls beolvasása
+- Erste Bank George .csv beolvasása
 - Működési hibák javítása
 
