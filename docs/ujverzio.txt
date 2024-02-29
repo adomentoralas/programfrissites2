@@ -1,8 +1,6 @@
-5.5.2 verzió
+5.5.3 verzió
 
 Újdonságok, javítások:
 
-- DPD csomaglista .xls beolvasása
-- Erste Bank George .csv beolvasása
 - Működési hibák javítása
 
