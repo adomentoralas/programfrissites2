@@ -1,4 +1,4 @@
 CREATE TABLE __MigrationHistory (MigrationId INTEGER PRIMARY KEY,Contextkey VARCHAR NOT NULL,Model VARCHAR NOT NULL,ProductVersion VARCHAR NOT NULL);
 CREATE TABLE EdmMetadata (Id INTEGER PRIMARY KEY,ModelHash VARCHAR NOT NULL);
 CREATE TABLE TblAnykbevallasok (AnykbevallasID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,Nyomtatvanynev TEXT,Adoszam TEXT,Nev TEXT,Datumtol DATE,Datumig DATE,Statusz TEXT,Informacio TEXT,Adoazonosito TEXT,Mentve DATE,Megjegyzes TEXT,Verzio TEXT,Szervezet TEXT,Allomany TEXT,Kategoria TEXT,Nyomtatvanyverzio TEXT,Csatolmanydb INTEGER,Avdhcsatolmany TEXT,Enykfajlnev TEXT);
-PRAGMA user_version = 553
+PRAGMA user_version = 554

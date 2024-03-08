@@ -1,6 +1,7 @@
-5.5.3 verzió
+5.5.4 verzió
 
 Újdonságok, javítások:
 
+- MBH bank Bankmester .xml beolvasás
 - Működési hibák javítása
 
