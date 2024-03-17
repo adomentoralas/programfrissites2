@@ -1,7 +1,7 @@
-5.5.4 verzió
+5.5.5 verzió
 
 Újdonságok, javítások:
 
-- MBH bank Bankmester .xml beolvasás
+- Iktatott számla export lista tartalmazza a könyvelési sorszámot is
 - Működési hibák javítása
 
