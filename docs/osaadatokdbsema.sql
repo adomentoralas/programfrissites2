@@ -5,4 +5,4 @@ CREATE TABLE TblSzamlatetelek (OsaszamlatetelID INTEGER PRIMARY KEY AUTOINCREMEN
 CREATE TABLE TblSzamlaafak (OsaszamlaafaID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,OsaszamlaID INTEGER,Afakulcs INTEGER,Afamentesseg TEXT,Netto FLOAT,Afa FLOAT,Brutto FLOAT,Nettohuf FLOAT,Afahuf FLOAT,Bruttohuf FLOAT,FOREIGN KEY(OsaszamlaID) REFERENCES TblSzamlak(OsaszamlaID) ON DELETE CASCADE);
 CREATE TABLE TblIktszamlak (IktszamlaID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,OsaszamlaID INTEGER,Iktatva BIT,Szamlaszam TEXT,Bizfajta TEXT,Rlbkonyvelve BIT,Rlbkonyvsorszam TEXT,Kiallitdatum DATE,Teljdatum DATE,Fizdatum DATE,Fizmod TEXT,Penznem TEXT,Vnevmodositva BIT,Vnev2 TEXT,Vadoszam TEXT,Vkozadoszam TEXT,Snev TEXT,Sadoszam TEXT,Skozadoszam,Netto FLOAT,Afa FLOAT,Brutto FLOAT,FOREIGN KEY(OsaszamlaID) REFERENCES TblSzamlak(OsaszamlaID) ON DELETE CASCADE);
 CREATE TABLE TblIktszamlafajlok (IktszamlafajlID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,IktszamlaID INTEGER,OsaszamlaID INTEGER,Eredetifajl TEXT,Iktatottfajl TEXT,FOREIGN KEY(IktszamlaID) REFERENCES TblIktszamlak(IktszamlaID) ON DELETE CASCADE);
-PRAGMA user_version = 556
+PRAGMA user_version = 557
