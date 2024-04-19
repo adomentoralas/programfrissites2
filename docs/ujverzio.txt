@@ -1,7 +1,6 @@
-5.6.0 verzió
+5.6.1 verzió
 
 Újdonságok, javítások:
 
-- Raiffeisen Bank .xls és Raiffeisen Bank .csv bankszámlatörténet új verzióinak beolvasása
 - Működési hibák javítása
 
