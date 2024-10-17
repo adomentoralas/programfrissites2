@@ -1,7 +1,6 @@
-5.6.8 verzió
+5.6.9 verzió
 
 Újdonságok, javítások:
 
-- MBH - Duna Takarék Bank .csv beolvasása
-- Működési hibák javítása
+- - Működési hibák javítása: a letöltött pénztárgép bizonylatok adatbázis rendezés után újra látszanak a programban
 
