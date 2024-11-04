@@ -1,6 +1,7 @@
-5.6.9 verzió
+5.7.0 verzió
 
 Újdonságok, javítások:
 
-- - Működési hibák javítása: a letöltött pénztárgép bizonylatok adatbázis rendezés után újra látszanak a programban
+- A konvertálás kimeneti formátuma lehet az RLB Naplófőkönyv és Pénztárkönyv programok számára beolvasható kszlaket .csv formátum.
+- A pénztárgép bizonylatok konvertálása menthető kszlaket .csv formátumban is. A számlák ilyen formátumban történő mentése a következő frissítésben készül el.
 
