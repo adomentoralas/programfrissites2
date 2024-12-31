@@ -1,7 +1,6 @@
-5.7.1 verzió
+5.7.2 verzió
 
 Újdonságok, javítások:
 
-- Program naplóbejegyzések fájlba mentése, így könnyebbé válik az esetleges hibák utólagos kiszűrése.
 - Működési hibák javítása.
 
