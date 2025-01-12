@@ -1,6 +1,6 @@
-5.7.2 verzió
+5.7.3 verzió
 
 Újdonságok, javítások:
 
-- Működési hibák javítása.
+- Főkönyvi karton tételes megjelenítése a Könyvelési statisztikák ablakban.
 
