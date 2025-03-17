@@ -1,9 +1,6 @@
-5.7.7 verzió
+5.7.8 verzió
 
 Újdonságok, javítások:
 
-- BinX Bank .csv számlatörténet beolvasása
-- ERSTE Bank .xls devizás számlatörténet beolvasása
-- TansferWise .csv devizás számlatörténet beolvasása
 - Működési hibák javítása.
 
