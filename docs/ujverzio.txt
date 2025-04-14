@@ -1,4 +1,4 @@
-5.7.8 verzió
+5.7.9 verzió
 
 Újdonságok, javítások:
 
