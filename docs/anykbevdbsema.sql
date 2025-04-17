@@ -2,4 +2,4 @@ CREATE TABLE __MigrationHistory (MigrationId INTEGER PRIMARY KEY,Contextkey VARC
 CREATE TABLE EdmMetadata (Id INTEGER PRIMARY KEY,ModelHash VARCHAR NOT NULL);
 CREATE TABLE TblAnykbevallasok (AnykbevallasID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,Nyomtatvanynev TEXT,Adoszam TEXT,Nev TEXT,Datumtol DATE,Datumig DATE,Statusz TEXT,Informacio TEXT,Adoazonosito TEXT,Mentve DATE,Megjegyzes TEXT,Verzio TEXT,Szervezet TEXT,Enykfajlnev TEXT,Kategoria TEXT,Nyomtatvanyverzio TEXT,Csatolmanydb INTEGER,Avdhcsatolmany TEXT,Enykfajlhash BLOB);
 CREATE TABLE TblAnykbevallasadatok (AnykbevallasadatID INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,AnykbevallasID INTEGER,Nyomtatvany TEXT,Lap TEXT,Datumtol TEXT,Datumig TEXT,Eazon TEXT,Sornev TEXT,Osszeg Float,FOREIGN KEY(AnykbevallasID) REFERENCES TblAnykbevallasok(AnykbevallasID) ON DELETE CASCADE);
-PRAGMA user_version = 579
+PRAGMA user_version = 580
