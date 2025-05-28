@@ -1,6 +1,6 @@
-5.8.1 verzió
+5.8.2 verzió
 
 Újdonságok, javítások:
 
-- A Vevő/Szállító gazdasági események szótárfeltételek közé bekerült a Pénznem is.
+- A Vevő/Szállító bizonylatok kiegyenlítése feltételekhez kötötten állítható be (nem csak a fizetési mód alapján, hanem szabadon paraméterezhető módon).
 
