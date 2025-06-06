@@ -1,6 +1,6 @@
-5.8.2 verzió
+5.8.3 verzió
 
 Újdonságok, javítások:
 
-- A Vevő/Szállító bizonylatok kiegyenlítése feltételekhez kötötten állítható be (nem csak a fizetési mód alapján, hanem szabadon paraméterezhető módon).
+- Működési hibák javítása.
 
