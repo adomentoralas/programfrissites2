@@ -1,6 +1,6 @@
-5.8.5 verzió
+5.8.6 verzió
 
 Újdonságok, javítások:
 
-- NAV M2M API kapcsolódás: adózói adatok megjelenítése (Tételes adószámla, Köztartozás egyenleg, Hiányzó bevallások, Biztosítotti jogviszony)
+- Adószám megjelenítése a cégnév mellett a cégválasztó legördülő vezérlőben
 
