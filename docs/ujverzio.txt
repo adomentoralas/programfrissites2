@@ -1,6 +1,6 @@
-5.8.6 verzió
+5.8.7 verzió
 
 Újdonságok, javítások:
 
-- Adószám megjelenítése a cégnév mellett a cégválasztó legördülő vezérlőben
+- Működési hibák javítása
 
