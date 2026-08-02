@@ -1,6 +1,6 @@
-5.8.7 verzió
+5.8.8 verzió
 
 Újdonságok, javítások:
 
-- Működési hibák javítása
+- NAV pénztárgép adatok letöltésének javítása
 
